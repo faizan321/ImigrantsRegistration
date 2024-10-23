@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_holder_tip.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/holder_tip.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_side_cornor_bg.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/side_cornor_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_heading_recyler_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/heading_recyler_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_multiselection_recyler_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/multiselection_recyler_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_background_transparent.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/background_transparent.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_bed_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/bed_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_submit.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/submit.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/menu_recipes.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/menu/recipes.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_clipboard.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/clipboard.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_visit_detail.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/visit_detail.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_background_doc_list.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/background_doc_list.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_navigation_view_item_background.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/navigation_view_item_background.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_dropdown_recyler_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/dropdown_recyler_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_cornor_bg.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/cornor_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_attendance_fragment.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/attendance_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_holder_favorite.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/holder_favorite.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_empty_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/empty_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_holder_ingredient.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/holder_ingredient.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_cheese.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-xhdpi/ic_cheese.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_section_role_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/section_role_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_hisdu_logo.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/hisdu_logo.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_fragment_search.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_dashboard_item_bg.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/dashboard_item_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_facility_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/facility_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_cheese.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-xxhdpi/ic_cheese.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/navigation_favorites.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/navigation/favorites.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_activity_splash.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_bottom_cornor_bg.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/bottom_cornor_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_alert_dialog_listview_search.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/alert_dialog_listview_search.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_cheese.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-xxxhdpi/ic_cheese.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_indicator_fragment.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/indicator_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/menu_category.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/menu/category.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_date_picker_recyler_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/date_picker_recyler_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_radio_flat_selector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/radio_flat_selector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/menu_search.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/menu/search.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_holder_category.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/holder_category.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/anim_slide_down.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_dashboard_role_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/dashboard_role_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_ic_file.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/ic_file.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_transculent_bg.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/transculent_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_cheese.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/cheese.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_fragment_detail.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/anim_exit_to_right.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/anim/exit_to_right.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_background_color_accent_fill_rounded_button.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/background_color_accent_fill_rounded_button.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_pending_item_bg.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/pending_item_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_ic_star_empty_white_vector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/ic_star_empty_white_vector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_roles_fragment.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/roles_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_ic_lemon.gif.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/ic_lemon.gif"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_ic_sync__1_.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/ic_sync__1_.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_textview_for_spinner.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/textview_for_spinner.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_online_survey.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/online_survey.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_module_fragment.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/module_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_baseline_arrow_back_black_24dp.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/baseline_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/navigation_category.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/navigation/category.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_cheese.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-mdpi/ic_cheese.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/anim_slide_up.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_image_upload_placeholder.jpeg.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/image_upload_placeholder.jpeg"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_caret_down.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/caret_down.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_baseline_person_outline_black_24dp.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/baseline_person_outline_black_24dp.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_ic_search_color_accent_24px_vector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/ic_search_color_accent_24px_vector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_ic_user_plus_gains_boro_vector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/ic_user_plus_gains_boro_vector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_take_images_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/take_images_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_comment_recyler_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/comment_recyler_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_fragment_favorite.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_pspu_logo.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/pspu_logo.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_survey_fragment.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/survey_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/anim_zoom_in.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/anim/zoom_in.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_holder_search.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/holder_search.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/menu_bottom_navigation_bar.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/menu/bottom_navigation_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_inprocess_form_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/inprocess_form_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/navigation_search.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/navigation/search.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_yellow_box.9.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/yellow_box.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/navigation_recipes.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/navigation/recipes.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_label_recyler_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/label_recyler_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_visits_list_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/visits_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_photo.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/photo.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_staff_list_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/staff_list_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_shape_drop_down_normal.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/shape_drop_down_normal.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_image_placeholder.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/image_placeholder.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/anim_enter_from_right.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/anim/enter_from_right.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_ic_user_plus_color_accent_vector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/ic_user_plus_color_accent_vector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_round_corner_bg_green.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/round_corner_bg_green.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_ic_user_minus_gains_boro_vector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/ic_user_minus_gains_boro_vector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_radio_flat_regular.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/radio_flat_regular.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_radio_flat_selected.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/radio_flat_selected.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_indicator_recyclerview.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/indicator_recyclerview.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_edittext_recyler_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/edittext_recyler_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_health_logo.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/health_logo.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_background_white.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/background_white.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_add_new_staff.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/add_new_staff.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_big_bg_white.9.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/big_bg_white.9.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_wheelchair.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/wheelchair.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_dashboard_fragment.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/dashboard_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_logout.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/logout.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_bhu_survey_layout.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/bhu_survey_layout.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_holder_recipe.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/holder_recipe.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_side_nav_bar.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_holder_direction.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/holder_direction.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_default_border.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/default_border.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/menu_main.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_ic_star_gray_empty_vector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/ic_star_gray_empty_vector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_image_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/image_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_section_fragment.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/section_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/menu_detail.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/menu/detail.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_asterisk.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/asterisk.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_item_listview_multiple.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/item_listview_multiple.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_searchable_list_dialog.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/searchable_list_dialog.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_attendance.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/attendance.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_fragment_recipes.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/fragment_recipes.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_green_button.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/green_button.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_holder_technic.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/holder_technic.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_ic_menu_vector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/ic_menu_vector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_ic_image.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/ic_image.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/navigation_detail.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/navigation/detail.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_ic_user_minus_color_accent_vector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/ic_user_minus_color_accent_vector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/color_bottom_navigation_color_selector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/color/bottom_navigation_color_selector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_images_fragment.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/images_fragment.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_right_arrow.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/right_arrow.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_hospital_bed.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/hospital_bed.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_gradient_bg.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_dashboard_item_unselect_bg.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/dashboard_item_unselect_bg.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_background_transparent_fill_rounded.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/background_transparent_fill_rounded.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/anim_enter_from_left.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/anim/enter_from_left.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_check_mark.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/check_mark.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_save.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/save.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_polio_login_bg.jpg.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/polio_login_bg.jpg"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_image_recyler_item.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/image_recyler_item.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_import_database.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/import_database.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_ic_star_full_vector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/ic_star_full_vector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_fragment_category.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/fragment_category.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/menu_favorites.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/menu/favorites.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_radio_flat_text_selector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/radio_flat_text_selector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_round_button_border.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/round_button_border.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/layout_master_form.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/layout/master_form.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/anim_exit_to_left.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/anim/exit_to_left.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_cheese.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-hdpi/ic_cheese.png"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_ic_delete_white_24px_vector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/ic_delete_white_24px_vector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_punjab_logo.jpeg.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/punjab_logo.jpeg"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable-nodpi_ic_spoon_knife_vector.xml.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable-nodpi/ic_spoon_knife_vector.xml"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/font_atlanta_book.ttf.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/font/atlanta_book.ttf"
+    },
+    {
+        "merged": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/merged_res/debug/drawable_left_arrow.png.flat",
+        "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/drawable/left_arrow.png"
+    }
+]

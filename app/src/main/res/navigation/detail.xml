@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/detail"
+    app:startDestination="@id/detailFragment">
+
+
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.hisdu.meas.ui.detail.DetailFragment"
+        tools:layout="@layout/fragment_detail">
+
+        <argument
+            android:name="recipe"
+            app:argType="com.hisdu.meas.data.model.Recipe" />
+
+    </fragment>
+
+
+    <action
+        android:id="@+id/action_detailFragment_to_searchFragment"
+        app:destination="@id/searchFragment">
+
+        <argument
+            android:name="text"
+            app:argType="string" />
+
+    </action>
+
+    <fragment
+        android:id="@+id/searchFragment"
+        android:label=""
+        android:name="com.hisdu.meas.ui.search.SearchFragment"
+        tools:layout="@layout/fragment_search" />
+</navigation>

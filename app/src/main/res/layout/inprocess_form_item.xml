@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_2sdp"
+    android:layout_marginBottom="@dimen/_2sdp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/_5sdp"
+        android:paddingStart="@dimen/_5sdp"
+        android:paddingEnd="@dimen/_5sdp"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:background="@drawable/pending_item_bg">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:weightSum="5"
+           android:orientation="horizontal">
+
+           <TextView
+               android:layout_width="0dp"
+               android:layout_weight="1"
+               android:layout_height="wrap_content"
+               android:textSize="@dimen/_8ssp"
+               android:textColor="@color/colorPrimary"
+               android:text="Facility Type"/>
+           <TextView
+               android:id="@+id/facility_type"
+               android:layout_width="0dp"
+               android:layout_weight="4"
+               android:textColor="@color/colorBlack"
+               android:text=""
+               android:textSize="@dimen/_8ssp"
+               android:layout_height="wrap_content"/>
+       </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="5"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/_8ssp"
+                android:textColor="@color/colorPrimary"
+                android:text="Facility"/>
+            <TextView
+                android:id="@+id/facility_name"
+                android:layout_width="0dp"
+                android:layout_weight="4"
+                android:textColor="@color/colorBlack"
+                android:text=""
+                android:textSize="@dimen/_8ssp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:weightSum="5"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/_8ssp"
+                android:textColor="@color/colorPrimary"
+                android:text="Visit Type"/>
+            <TextView
+                android:id="@+id/visit_type"
+                android:layout_width="0dp"
+                android:layout_weight="4"
+                android:textColor="@color/colorBlack"
+                android:text=""
+                android:textSize="@dimen/_8ssp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/continue_form"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:layout_gravity="right"
+            android:text="Continue"/>
+    </LinearLayout>
+</LinearLayout>

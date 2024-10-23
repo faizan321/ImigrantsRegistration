@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625852807361",
+    "project_id": "meas-86b44",
+    "storage_bucket": "meas-86b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625852807361:android:1fb12760b3e3bb1a987c40",
+        "android_client_info": {
+          "package_name": "com.hisdu.migration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625852807361-5cfbhgp3kfjofmlhcikpvk6pdirbtbid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hisdu.migration",
+            "certificate_hash": "55b6eab47897ef3776a326e91e602bf72deb6630"
+          }
+        },
+        {
+          "client_id": "625852807361-7vnviprve6g58iekn4getoo6i2nbcm86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBca7MgHk4N93KNTaY6egN5tjT3QY3NeYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625852807361-7vnviprve6g58iekn4getoo6i2nbcm86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

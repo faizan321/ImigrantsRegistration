@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Data/HISDUAPPS/RevampHF/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Volumes/Data/HISDUAPPS/RevampHF/app/src/main/res/values-xhdpi/dimens.xml",
+                    "from": {
+                        "startLines": "8,9,7,4,3,2,6,5",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "423,489,364,197,147,88,308,253",
+                        "endColumns": "65,76,58,55,49,58,55,54",
+                        "endOffsets": "484,561,418,248,192,142,359,303"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,121,198,257,313,363,422,478",
+                        "endColumns": "65,76,58,55,49,58,55,54",
+                        "endOffsets": "116,193,252,308,358,417,473,528"
+                    }
+                }
+            ]
+        }
+    ]
+}

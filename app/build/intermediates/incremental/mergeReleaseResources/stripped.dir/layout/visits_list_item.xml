@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_25sdp"
+        android:weightSum="7"
+       >
+<!--        <View-->
+
+<!--            android:layout_width="1dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:background="@color/colorTextSecondary" />-->
+
+        <me.grantland.widget.AutofitTextView
+            android:id="@+id/health_facility_name"
+            android:layout_width="0dp"
+            android:layout_weight="3"
+            android:layout_height="wrap_content"
+
+            android:layout_gravity="center_vertical"
+            android:maxLines="2"
+            android:textSize="@dimen/_7ssp"
+            android:textColor="@color/colorBlack"
+            android:paddingStart="@dimen/_4sdp"
+            app:minTextSize="@dimen/_5ssp" />
+
+        <View
+
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/colorTextSecondary"/>
+        <me.grantland.widget.AutofitTextView
+            android:id="@+id/shift_name"
+            android:layout_width="0dp"
+            android:layout_weight="1.4"
+            app:minTextSize="@dimen/_5sdp"
+            android:gravity="center"
+            android:maxLines="2"
+            android:textSize="@dimen/_7ssp"
+            android:textColor="@color/colorBlack"
+            android:layout_gravity="center_vertical"
+            android:layout_height="wrap_content" />
+        <View
+
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/colorTextSecondary" />
+        <me.grantland.widget.AutofitTextView
+            android:id="@+id/facility_type"
+            android:layout_width="0dp"
+            android:layout_weight="1.3"
+            app:minTextSize="@dimen/_5sdp"
+            android:maxLines="2"
+            android:textSize="@dimen/_7ssp"
+            android:gravity="center"
+            android:textColor="@color/colorBlack"
+            android:layout_gravity="center_vertical"
+            android:layout_height="wrap_content" />
+        <View
+
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/colorTextSecondary" />
+        <me.grantland.widget.AutofitTextView
+            android:id="@+id/isvisited"
+            android:layout_width="0dp"
+            android:layout_weight="1.3"
+            app:minTextSize="@dimen/_5sdp"
+            android:maxLines="2"
+            android:textSize="@dimen/_7ssp"
+            android:gravity="center"
+            android:textColor="@color/colorBlack"
+            android:layout_gravity="center_vertical"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorTextSecondary"/>
+</LinearLayout>

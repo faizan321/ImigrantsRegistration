@@ -1,0 +1,339 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hisdu.migration"
+4    android:versionCode="1"
+5    android:versionName="1.0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml
+10
+11    <!-- Permissions -->
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:7:5-67
+12-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:8:5-79
+13-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:9:5-81
+14-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:10:5-80
+15-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:10:22-77
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:11:5-79
+16-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:11:22-76
+17    <uses-permission android:name="android.permission.CAMERA" />
+17-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:12:5-65
+17-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:12:22-62
+18    <uses-permission android:name="android.permission.INJECT_EVENTS" />
+18-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:13:5-71
+18-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:13:22-69
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->[com.amitshekhar.android:debug-db:1.0.3] /Users/secretaryhealth/.gradle/caches/transforms-3/d5a6779428d2c59f20f7d1ecb3396405/transformed/jetified-debug-db-1.0.3/AndroidManifest.xml:30:5-76
+19-->[com.amitshekhar.android:debug-db:1.0.3] /Users/secretaryhealth/.gradle/caches/transforms-3/d5a6779428d2c59f20f7d1ecb3396405/transformed/jetified-debug-db-1.0.3/AndroidManifest.xml:30:22-73
+20    <uses-permission android:name="android.permission.VIBRATE" />
+20-->[com.wdullaer:materialdatetimepicker:4.2.3] /Users/secretaryhealth/.gradle/caches/transforms-3/2274f20e9584348c6e74fc8c95c7205d/transformed/jetified-materialdatetimepicker-4.2.3/AndroidManifest.xml:26:5-66
+20-->[com.wdullaer:materialdatetimepicker:4.2.3] /Users/secretaryhealth/.gradle/caches/transforms-3/2274f20e9584348c6e74fc8c95c7205d/transformed/jetified-materialdatetimepicker-4.2.3/AndroidManifest.xml:26:22-63
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:25:5-68
+21-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:25:22-65
+22    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- <uses-feature android:name="android.hardware.camera" android:required="true" /> -->
+22-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:26:5-110
+22-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:26:22-107
+23    <application
+23-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:16:5-59:19
+24        android:name="com.hisdu.meas.MainApplication"
+24-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:17:9-54
+25        android:allowBackup="true"
+25-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:18:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.8.0-rc01] /Users/secretaryhealth/.gradle/caches/transforms-3/a52d46eb28c2881fa6b66660a1a19dc9/transformed/core-1.8.0-rc01/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher"
+28-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:19:9-43
+29        android:label="@string/app_name"
+29-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:20:9-41
+30        android:largeHeap="true"
+30-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:21:9-33
+31        android:requestLegacyExternalStorage="true"
+31-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:22:9-52
+32        android:supportsRtl="true"
+32-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:23:9-35
+33        android:theme="@style/AppTheme.NoActionBar"
+33-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:24:9-52
+34        android:usesCleartextTraffic="true" >
+34-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:25:9-44
+35        <meta-data
+35-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:30:9-32:72
+36            android:name="io.fabric.ApiKey"
+36-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:31:13-44
+37            android:value="236b16296bcdaebec9e1d93b4dd79388545d9dd0" />
+37-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:32:13-69
+38
+39        <activity
+39-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:34:9-45:20
+40            android:name="com.hisdu.meas.ui.splash.SplashActivity"
+40-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:35:13-67
+41            android:configChanges="orientation"
+41-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:36:13-48
+42            android:exported="true"
+42-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:39:13-36
+43            android:screenOrientation="portrait"
+43-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:37:13-49
+44            android:theme="@style/AppThemeFullScreen" >
+44-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:38:13-54
+45            <intent-filter>
+45-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:40:13-44:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:41:17-69
+46-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:41:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:43:17-77
+48-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:43:27-74
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:47:9-52:58
+52            android:name="com.hisdu.meas.ui.main.MainActivity"
+52-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:48:13-63
+53            android:configChanges="orientation"
+53-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:49:13-48
+54            android:screenOrientation="portrait"
+54-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:50:13-49
+55            android:theme="@style/AppTheme.NoActionBar"
+55-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:51:13-56
+56            android:windowSoftInputMode="adjustResize" />
+56-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:52:13-55
+57        <activity
+57-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:53:9-58:63
+58            android:name="com.zest.android.ui.login.LoginActivity"
+58-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:54:13-67
+59            android:configChanges="orientation"
+59-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:55:13-48
+60            android:screenOrientation="portrait"
+60-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:56:13-49
+61            android:theme="@style/AppTheme.NoActionBar"
+61-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:57:13-56
+62            android:windowSoftInputMode="stateAlwaysHidden" />
+62-->/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/AndroidManifest.xml:58:13-60
+63
+64        <provider
+64-->[com.amitshekhar.android:debug-db:1.0.3] /Users/secretaryhealth/.gradle/caches/transforms-3/d5a6779428d2c59f20f7d1ecb3396405/transformed/jetified-debug-db-1.0.3/AndroidManifest.xml:33:9-37:40
+65            android:name="com.amitshekhar.DebugDBInitProvider"
+65-->[com.amitshekhar.android:debug-db:1.0.3] /Users/secretaryhealth/.gradle/caches/transforms-3/d5a6779428d2c59f20f7d1ecb3396405/transformed/jetified-debug-db-1.0.3/AndroidManifest.xml:34:13-63
+66            android:authorities="com.hisdu.migration.DebugDBInitProvider"
+66-->[com.amitshekhar.android:debug-db:1.0.3] /Users/secretaryhealth/.gradle/caches/transforms-3/d5a6779428d2c59f20f7d1ecb3396405/transformed/jetified-debug-db-1.0.3/AndroidManifest.xml:35:13-71
+67            android:enabled="true"
+67-->[com.amitshekhar.android:debug-db:1.0.3] /Users/secretaryhealth/.gradle/caches/transforms-3/d5a6779428d2c59f20f7d1ecb3396405/transformed/jetified-debug-db-1.0.3/AndroidManifest.xml:36:13-35
+68            android:exported="false" />
+68-->[com.amitshekhar.android:debug-db:1.0.3] /Users/secretaryhealth/.gradle/caches/transforms-3/d5a6779428d2c59f20f7d1ecb3396405/transformed/jetified-debug-db-1.0.3/AndroidManifest.xml:37:13-37
+69        <provider
+69-->[com.squareup.picasso:picasso:2.71828] /Users/secretaryhealth/.gradle/caches/transforms-3/b0a58f9b379d867ce8d5e63060f5536e/transformed/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+70            android:name="com.squareup.picasso.PicassoProvider"
+70-->[com.squareup.picasso:picasso:2.71828] /Users/secretaryhealth/.gradle/caches/transforms-3/b0a58f9b379d867ce8d5e63060f5536e/transformed/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+71            android:authorities="com.hisdu.migration.com.squareup.picasso"
+71-->[com.squareup.picasso:picasso:2.71828] /Users/secretaryhealth/.gradle/caches/transforms-3/b0a58f9b379d867ce8d5e63060f5536e/transformed/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+72            android:exported="false" />
+72-->[com.squareup.picasso:picasso:2.71828] /Users/secretaryhealth/.gradle/caches/transforms-3/b0a58f9b379d867ce8d5e63060f5536e/transformed/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+73
+74        <activity
+74-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:15:9-18:68
+75            android:name="com.github.dhaval2404.imagepicker.ImagePickerActivity"
+75-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:16:13-81
+76            android:screenOrientation="unspecified"
+76-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:17:13-52
+77            android:theme="@style/Theme.Transparent.ImagePicker" />
+77-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:18:13-65
+78        <activity
+78-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:19:9-22:72
+79            android:name="com.yalantis.ucrop.UCropActivity"
+79-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:20:13-60
+80            android:screenOrientation="portrait"
+80-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:21:13-49
+81            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+81-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:22:13-69
+82
+83        <provider
+83-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:24:9-32:20
+84            android:name="com.github.dhaval2404.imagepicker.ImagePickerFileProvider"
+84-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:25:13-85
+85            android:authorities="com.hisdu.migration.imagepicker.provider"
+85-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:26:13-72
+86            android:exported="false"
+86-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:27:13-37
+87            android:grantUriPermissions="true" >
+87-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:28:13-47
+88            <meta-data
+88-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:29:13-31:71
+89                android:name="android.support.FILE_PROVIDER_PATHS"
+89-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:30:17-67
+90                android:resource="@xml/image_picker_provider_paths" />
+90-->[com.github.dhaval2404:imagepicker-support:1.7.1] /Users/secretaryhealth/.gradle/caches/transforms-3/abf1729684c3dd80bdca489ec8c9af8e/transformed/jetified-imagepicker-support-1.7.1/AndroidManifest.xml:31:17-68
+91        </provider>
+92
+93        <activity
+93-->[com.google.android.gms:play-services-base:17.5.0] /Users/secretaryhealth/.gradle/caches/transforms-3/88a71946b4779a557f02f7e61ec50ed2/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+94            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+94-->[com.google.android.gms:play-services-base:17.5.0] /Users/secretaryhealth/.gradle/caches/transforms-3/88a71946b4779a557f02f7e61ec50ed2/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+95            android:exported="false"
+95-->[com.google.android.gms:play-services-base:17.5.0] /Users/secretaryhealth/.gradle/caches/transforms-3/88a71946b4779a557f02f7e61ec50ed2/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+96-->[com.google.android.gms:play-services-base:17.5.0] /Users/secretaryhealth/.gradle/caches/transforms-3/88a71946b4779a557f02f7e61ec50ed2/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+97
+98        <receiver
+98-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:29:9-33:20
+99            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+99-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:30:13-85
+100            android:enabled="true"
+100-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:31:13-35
+101            android:exported="false" >
+101-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:32:13-37
+102        </receiver>
+103
+104        <service
+104-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:35:9-38:40
+105            android:name="com.google.android.gms.measurement.AppMeasurementService"
+105-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:36:13-84
+106            android:enabled="true"
+106-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:37:13-35
+107            android:exported="false" />
+107-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:38:13-37
+108        <service
+108-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:39:9-43:72
+109            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+109-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:40:13-87
+110            android:enabled="true"
+110-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:41:13-35
+111            android:exported="false"
+111-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:42:13-37
+112            android:permission="android.permission.BIND_JOB_SERVICE" />
+112-->[com.google.android.gms:play-services-measurement:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/2856b73737a3e8d85682e83c9e1dabe7/transformed/jetified-play-services-measurement-20.0.0/AndroidManifest.xml:43:13-69
+113        <service
+113-->[com.google.android.gms:play-services-measurement-api:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/6581176be0bca24fa3a75f09bb2a458f/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:27:9-33:19
+114            android:name="com.google.firebase.components.ComponentDiscoveryService"
+114-->[com.google.android.gms:play-services-measurement-api:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/6581176be0bca24fa3a75f09bb2a458f/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:28:13-84
+115            android:directBootAware="true"
+115-->[com.google.firebase:firebase-common:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/207cf4ca77dd5e953454d2d9d20685a3/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+116            android:exported="false" >
+116-->[com.google.android.gms:play-services-measurement-api:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/6581176be0bca24fa3a75f09bb2a458f/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:29:13-37
+117            <meta-data
+117-->[com.google.android.gms:play-services-measurement-api:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/6581176be0bca24fa3a75f09bb2a458f/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:30:13-32:85
+118                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+118-->[com.google.android.gms:play-services-measurement-api:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/6581176be0bca24fa3a75f09bb2a458f/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:31:17-139
+119                android:value="com.google.firebase.components.ComponentRegistrar" />
+119-->[com.google.android.gms:play-services-measurement-api:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/6581176be0bca24fa3a75f09bb2a458f/transformed/jetified-play-services-measurement-api-20.0.0/AndroidManifest.xml:32:17-82
+120            <meta-data
+120-->[com.google.firebase:firebase-crashlytics:18.2.4] /Users/secretaryhealth/.gradle/caches/transforms-3/a20642da76cad91c679f4f0ab671f506/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:18:13-20:85
+121                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+121-->[com.google.firebase:firebase-crashlytics:18.2.4] /Users/secretaryhealth/.gradle/caches/transforms-3/a20642da76cad91c679f4f0ab671f506/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:19:17-115
+122                android:value="com.google.firebase.components.ComponentRegistrar" />
+122-->[com.google.firebase:firebase-crashlytics:18.2.4] /Users/secretaryhealth/.gradle/caches/transforms-3/a20642da76cad91c679f4f0ab671f506/transformed/jetified-firebase-crashlytics-18.2.4/AndroidManifest.xml:20:17-82
+123            <meta-data
+123-->[com.google.firebase:firebase-installations:17.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/05851f57091823b2745de6fb141f4c58/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+124                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+124-->[com.google.firebase:firebase-installations:17.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/05851f57091823b2745de6fb141f4c58/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+125                android:value="com.google.firebase.components.ComponentRegistrar" />
+125-->[com.google.firebase:firebase-installations:17.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/05851f57091823b2745de6fb141f4c58/transformed/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+126        </service>
+127
+128        <provider
+128-->[com.google.firebase:firebase-common:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/207cf4ca77dd5e953454d2d9d20685a3/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+129            android:name="com.google.firebase.provider.FirebaseInitProvider"
+129-->[com.google.firebase:firebase-common:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/207cf4ca77dd5e953454d2d9d20685a3/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+130            android:authorities="com.hisdu.migration.firebaseinitprovider"
+130-->[com.google.firebase:firebase-common:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/207cf4ca77dd5e953454d2d9d20685a3/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+131            android:directBootAware="true"
+131-->[com.google.firebase:firebase-common:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/207cf4ca77dd5e953454d2d9d20685a3/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+132            android:exported="false"
+132-->[com.google.firebase:firebase-common:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/207cf4ca77dd5e953454d2d9d20685a3/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+133            android:initOrder="100" />
+133-->[com.google.firebase:firebase-common:20.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/207cf4ca77dd5e953454d2d9d20685a3/transformed/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+134
+135        <meta-data
+135-->[com.google.android.gms:play-services-basement:17.5.0] /Users/secretaryhealth/.gradle/caches/transforms-3/f46537f8d8543694b62c0096da0b71be/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+136            android:name="com.google.android.gms.version"
+136-->[com.google.android.gms:play-services-basement:17.5.0] /Users/secretaryhealth/.gradle/caches/transforms-3/f46537f8d8543694b62c0096da0b71be/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+137            android:value="@integer/google_play_services_version" />
+137-->[com.google.android.gms:play-services-basement:17.5.0] /Users/secretaryhealth/.gradle/caches/transforms-3/f46537f8d8543694b62c0096da0b71be/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+138
+139        <service
+139-->[androidx.room:room-runtime:2.5.0-alpha02] /Users/secretaryhealth/.gradle/caches/transforms-3/8fd5fdd3a091d83a9a23a7658c5bf73d/transformed/room-runtime-2.5.0-alpha02/AndroidManifest.xml:25:9-29:63
+140            android:name="androidx.room.MultiInstanceInvalidationService"
+140-->[androidx.room:room-runtime:2.5.0-alpha02] /Users/secretaryhealth/.gradle/caches/transforms-3/8fd5fdd3a091d83a9a23a7658c5bf73d/transformed/room-runtime-2.5.0-alpha02/AndroidManifest.xml:26:13-74
+141            android:directBootAware="true"
+141-->[androidx.room:room-runtime:2.5.0-alpha02] /Users/secretaryhealth/.gradle/caches/transforms-3/8fd5fdd3a091d83a9a23a7658c5bf73d/transformed/room-runtime-2.5.0-alpha02/AndroidManifest.xml:27:13-43
+142            android:exported="false" />
+142-->[androidx.room:room-runtime:2.5.0-alpha02] /Users/secretaryhealth/.gradle/caches/transforms-3/8fd5fdd3a091d83a9a23a7658c5bf73d/transformed/room-runtime-2.5.0-alpha02/AndroidManifest.xml:28:13-37
+143
+144        <uses-library
+144-->[androidx.window:window:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/8a7eab11d8fbf5f108e3cad591b8e957/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+145            android:name="androidx.window.extensions"
+145-->[androidx.window:window:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/8a7eab11d8fbf5f108e3cad591b8e957/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+146            android:required="false" />
+146-->[androidx.window:window:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/8a7eab11d8fbf5f108e3cad591b8e957/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+147        <uses-library
+147-->[androidx.window:window:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/8a7eab11d8fbf5f108e3cad591b8e957/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+148            android:name="androidx.window.sidecar"
+148-->[androidx.window:window:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/8a7eab11d8fbf5f108e3cad591b8e957/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+149            android:required="false" />
+149-->[androidx.window:window:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/8a7eab11d8fbf5f108e3cad591b8e957/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+150
+151        <service
+151-->[com.google.android.datatransport:transport-backend-cct:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/cd1b01525ee4e99c27049ded1c9b00b4/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:29:9-35:19
+152            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+152-->[com.google.android.datatransport:transport-backend-cct:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/cd1b01525ee4e99c27049ded1c9b00b4/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:30:13-103
+153            android:exported="false" >
+153-->[com.google.android.datatransport:transport-backend-cct:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/cd1b01525ee4e99c27049ded1c9b00b4/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:31:13-37
+154            <meta-data
+154-->[com.google.android.datatransport:transport-backend-cct:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/cd1b01525ee4e99c27049ded1c9b00b4/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:32:13-34:39
+155                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+155-->[com.google.android.datatransport:transport-backend-cct:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/cd1b01525ee4e99c27049ded1c9b00b4/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:33:17-94
+156                android:value="cct" />
+156-->[com.google.android.datatransport:transport-backend-cct:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/cd1b01525ee4e99c27049ded1c9b00b4/transformed/jetified-transport-backend-cct-3.1.0/AndroidManifest.xml:34:17-36
+157        </service>
+158        <service
+158-->[com.google.android.datatransport:transport-runtime:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/31f8989659d2c53e988ec01cf7931c86/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:26:9-30:19
+159            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+159-->[com.google.android.datatransport:transport-runtime:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/31f8989659d2c53e988ec01cf7931c86/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:27:13-117
+160            android:exported="false"
+160-->[com.google.android.datatransport:transport-runtime:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/31f8989659d2c53e988ec01cf7931c86/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:28:13-37
+161            android:permission="android.permission.BIND_JOB_SERVICE" >
+161-->[com.google.android.datatransport:transport-runtime:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/31f8989659d2c53e988ec01cf7931c86/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:29:13-69
+162        </service>
+163
+164        <receiver
+164-->[com.google.android.datatransport:transport-runtime:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/31f8989659d2c53e988ec01cf7931c86/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:32:9-34:40
+165            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+165-->[com.google.android.datatransport:transport-runtime:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/31f8989659d2c53e988ec01cf7931c86/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:33:13-132
+166            android:exported="false" />
+166-->[com.google.android.datatransport:transport-runtime:3.1.0] /Users/secretaryhealth/.gradle/caches/transforms-3/31f8989659d2c53e988ec01cf7931c86/transformed/jetified-transport-runtime-3.1.0/AndroidManifest.xml:34:13-37
+167
+168        <provider
+168-->[androidx.emoji2:emoji2:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/946addb612931392ee3f4aff4762f889/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+169            android:name="androidx.startup.InitializationProvider"
+169-->[androidx.emoji2:emoji2:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/946addb612931392ee3f4aff4762f889/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+170            android:authorities="com.hisdu.migration.androidx-startup"
+170-->[androidx.emoji2:emoji2:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/946addb612931392ee3f4aff4762f889/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+171            android:exported="false" >
+171-->[androidx.emoji2:emoji2:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/946addb612931392ee3f4aff4762f889/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+172            <meta-data
+172-->[androidx.emoji2:emoji2:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/946addb612931392ee3f4aff4762f889/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+173                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+173-->[androidx.emoji2:emoji2:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/946addb612931392ee3f4aff4762f889/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+174                android:value="androidx.startup" />
+174-->[androidx.emoji2:emoji2:1.0.0] /Users/secretaryhealth/.gradle/caches/transforms-3/946addb612931392ee3f4aff4762f889/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+175            <meta-data
+175-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/secretaryhealth/.gradle/caches/transforms-3/6659cdca2709df2a47cc7d19fc350776/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+176                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+176-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/secretaryhealth/.gradle/caches/transforms-3/6659cdca2709df2a47cc7d19fc350776/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+177                android:value="androidx.startup" />
+177-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/secretaryhealth/.gradle/caches/transforms-3/6659cdca2709df2a47cc7d19fc350776/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+178        </provider>
+179    </application>
+180
+181</manifest>

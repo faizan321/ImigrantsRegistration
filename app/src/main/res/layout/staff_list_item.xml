@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="7"
+       >
+        <View
+
+            android:layout_width="1dp"
+            android:layout_height="@dimen/_40sdp"
+            android:background="@color/colorTextSecondary" />
+        <TextView
+            android:id="@+id/statff_no"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_gravity="center_vertical"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="@dimen/_9ssp"
+            android:textColor="@color/colorBlack"
+            android:text="1"/>
+
+        <View
+
+            android:layout_width="1dp"
+            android:layout_height="@dimen/_40sdp"
+            android:background="@color/colorTextSecondary" />
+
+        <me.grantland.widget.AutofitTextView
+            android:id="@+id/designation"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text=""
+            android:maxLines="2"
+            android:textSize="@dimen/_9ssp"
+            android:textColor="@color/colorBlack"
+            android:paddingStart="@dimen/_4sdp"
+            app:minTextSize="@dimen/_5ssp" />
+        <View
+
+            android:layout_width="1dp"
+            android:layout_height="@dimen/_40sdp"
+            android:background="@color/colorTextSecondary" />
+        <me.grantland.widget.AutofitTextView
+            android:id="@+id/name"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textSize="@dimen/_9ssp"
+            android:text=""
+            android:maxLines="2"
+            android:textColor="@color/colorBlack"
+            android:paddingStart="@dimen/_4sdp"
+            app:minTextSize="@dimen/_5ssp" />
+        <View
+
+            android:layout_width="1dp"
+            android:layout_height="@dimen/_40sdp"
+            android:background="@color/colorTextSecondary"/>
+        <me.grantland.widget.AutofitTextView
+            android:id="@+id/presence_status"
+            android:layout_width="0dp"
+            android:paddingStart="@dimen/_4sdp"
+            android:layout_weight="2"
+            app:minTextSize="@dimen/_5sdp"
+            android:maxLines="2"
+            android:textSize="@dimen/_9ssp"
+            android:textColor="@color/colorBlack"
+            android:layout_gravity="center_vertical"
+            android:layout_height="wrap_content" />
+        <View
+
+            android:layout_width="1dp"
+            android:layout_height="@dimen/_40sdp"
+            android:background="@color/colorTextSecondary" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorTextSecondary"/>
+</LinearLayout>

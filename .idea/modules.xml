@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RevampHF.iml" filepath="$PROJECT_DIR$/.idea/modules/RevampHF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RevampHF.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RevampHF.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RevampHF.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RevampHF.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RevampHF.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RevampHF.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RevampHF.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RevampHF.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

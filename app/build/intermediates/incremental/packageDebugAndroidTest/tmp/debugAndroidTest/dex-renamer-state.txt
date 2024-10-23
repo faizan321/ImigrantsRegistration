@@ -1,0 +1,7 @@
+#Wed Oct 23 16:37:21 PKT 2024
+base.0=/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/classes.dex
+base.1=/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Data/HISDUAPPS/Imigrants/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Volumes/Data/HISDUAPPS/Imigrants/app/src/main/res/values-hdpi/dimens.xml",
+                    "from": {
+                        "startLines": "8,9,7,4,3,2,6,5",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "423,489,364,197,147,88,308,253",
+                        "endColumns": "65,76,58,55,49,58,55,54",
+                        "endOffsets": "484,561,418,248,192,142,359,303"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,121,198,257,313,363,422,478",
+                        "endColumns": "65,76,58,55,49,58,55,54",
+                        "endOffsets": "116,193,252,308,358,417,473,528"
+                    }
+                },
+                {
+                    "source": "/Users/secretaryhealth/.gradle/caches/transforms-3/5f44c34fc4849355e68f5e9e423b400d/transformed/appcompat-1.4.2/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "533",
+                        "endLines": "14",
+                        "endColumns": "13",
+                        "endOffsets": "805"
+                    }
+                }
+            ]
+        }
+    ]
+}

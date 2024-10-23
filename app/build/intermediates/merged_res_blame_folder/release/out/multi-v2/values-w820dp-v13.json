@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Data/HISDUAPPS/RevampHF/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Volumes/Data/HISDUAPPS/RevampHF/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "10,11,9,6,5,4,8,7",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "626,692,567,400,350,291,511,456",
+                        "endColumns": "65,76,58,55,49,58,55,54",
+                        "endOffsets": "687,764,621,451,395,345,562,506"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,121,198,257,313,363,422,478",
+                        "endColumns": "65,76,58,55,49,58,55,54",
+                        "endOffsets": "116,193,252,308,358,417,473,528"
+                    }
+                }
+            ]
+        }
+    ]
+}

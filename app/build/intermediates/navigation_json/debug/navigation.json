@@ -1,0 +1,27 @@
+[
+  {
+    "name": "category",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "recipes",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "search",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "detail",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "favorites",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  }
+]
